@@ -71,7 +71,10 @@
 // if(c=== 14){
 //     alert("condition 4 is true")
 // }
+ 
 
+
+// ans no 06:-
 
 // var materialcost=20000;
 // var labourcost=2000;
@@ -103,10 +106,51 @@
 // alert(`${wheater} is divisible by 3`);
 // }
 
-let number= +prompt("enter the number");
+// let number= +prompt("enter the number");
 
-if(number%2 ===0){
-    alert(`${number} is an even number`)
-}else{
-    alert(`${number} is an odd number`)
-}
+// if(number%2 ===0){
+//     alert(`${number} is an even number`)
+// }else{
+//     alert(`${number} is an odd number`)
+// }
+
+// ans n0 09:-
+
+// let T = +prompt("asked about temperature");
+
+// if(T > 40 && T < 100){
+//     alert(`${T} "its too Hot today!"`)
+// }
+//  else if(T > 30 && T < 40){
+//     alert(`${T} "The weather today is Normal!"`)
+// }
+//  else if(T > 20  && T < 30){
+//     alert(`${T} "Todays weathe is cool!"`)
+// }
+//  else if(T > 10 && T <20){
+//     alert(`${T} "OMG! today's weather is so cool"`)
+// }else{
+//     alert("kisi or se phoch ly bhaee");
+// }
+
+// let NO1= +prompt("type 1 No");
+// let Op= prompt("type Operator");
+// let NO2= +prompt("type 2 No");
+
+// if(Op ==="+"){
+// document.write(NO1 + NO2);
+// }
+//  else if(Op ==="-"){
+// document.write(NO1 - NO2);
+// }
+//  else if(Op ==="*"){
+// document.write(NO1 * NO2);
+// }
+//  else if(Op ==="/"){
+// document.write(NO1 / NO2);
+// }
+//  else if(Op ==="%"){
+// document.write(NO1 % NO2);
+// }else{
+//     document.write("invalid operator")
+// }
